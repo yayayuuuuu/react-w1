@@ -55,9 +55,9 @@ const HomeSection = () => {
         <br />
         不只是一條手鍊，更是一場關於海洋與自己的對話
       </p>
-      <div className="d-flex justify-content-center gap-3" style={{ width: 200, height: "auto" }}>
+      <div className="d-flex justify-content-center gap-3">
         <a href="商品簡介/product.html">
-          <img id="home_product2" src="/image/home_product2.webp" className="zoom-image w-25" alt="product 2" />
+          <img id="home_product2" src="/image/home_product2.webp" className="zoom-image w-25" style={{ width: 200, height: "auto" }} alt="product 2" />
         </a>
         <a href="商品簡介/product.html">
           <img id="home_product3" src="/image/home_product3.webp" className="zoom-image w-25" alt="product 3" />
