@@ -51,7 +51,7 @@ const HomeSection = () => {
       <img id="home_product1" src="image/home_product1.webp" alt="home product" className="w-250" />
       <br />
       <p>
-        在美麗的飾品中傳遞對海洋的守護之心。
+        在美麗的飾品中傳遞對海洋的守護之心
         <br />
         不只是一條手鍊，更是一場關於海洋與自己的對話
       </p>
