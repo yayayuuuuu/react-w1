@@ -49,12 +49,13 @@ const HomeSection = () => {
   return (
     <div className="text-center p-4">
       <img id="home_product1" src="image/home_product1.webp" alt="home product" className="w-50" />
+      <br />
       <p>
         在美麗的飾品中傳遞對海洋的守護之心。
         <br />
         不只是一條手鍊，更是一場關於海洋與自己的對話
       </p>
-      <div className="d-flex justify-content-center gap-3">
+      <div className="d-flex justify-content-center gap-3" style="width: 200px; height: auto;">
         <a href="商品簡介/product.html">
           <img id="home_product2" src="/image/home_product2.webp" className="zoom-image w-25" alt="product 2" />
         </a>
