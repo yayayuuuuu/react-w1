@@ -65,10 +65,13 @@ const HomeSection = () => {
           <img id="home_product4" src="/image/home_product4.webp" className="zoom-image w-25" alt="product 4" />
         </a>
       </div>
+      <br /><br />
       <a href="about us/aboutus.html">
         <Button variant="outline-primary" className="mt-3">查看更多</Button>
       </a>
+      <br /><br />
     </div>
+    
   );
 };
 
