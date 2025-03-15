@@ -48,7 +48,7 @@ const CarouselComponent = () => {
 const HomeSection = () => {
   return (
     <div className="text-center p-4">
-      <img id="home_product1" src="image/home_product1.webp" alt="home product" className="w-50" />
+      <img id="home_product1" src="image/home_product1.webp" alt="home product" className="w-250" />
       <br />
       <p>
         在美麗的飾品中傳遞對海洋的守護之心。
@@ -60,10 +60,10 @@ const HomeSection = () => {
           <img id="home_product2" src="/image/home_product2.webp" className="zoom-image w-50"  alt="product 2" />
         </a>
         <a href="商品簡介/product.html">
-          <img id="home_product3" src="/image/home_product3.webp" className="zoom-image w-25" alt="product 3" />
+          <img id="home_product3" src="/image/home_product3.webp" className="zoom-image w-50" alt="product 3" />
         </a>
         <a href="商品簡介/product.html">
-          <img id="home_product4" src="/image/home_product4.webp" className="zoom-image w-25" alt="product 4" />
+          <img id="home_product4" src="/image/home_product4.webp" className="zoom-image w-50" alt="product 4" />
         </a>
       </div>
       <br /><br />
