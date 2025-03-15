@@ -63,7 +63,7 @@ const HomeSection = () => {
           <img id="home_product3" src="/image/home_product3.webp" className="zoom-image w-50" alt="product 3" />
         </a>
         <a href="商品簡介/product.html">
-          <img id="home_product4" src="/image/home_product4.webp" className="zoom-image w-51" alt="product 4" />
+          <img id="home_product4" src="/image/home_product4.webp" className="zoom-image w-50" alt="product 4" />
         </a>
       </div>
       <br /><br />
